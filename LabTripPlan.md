@@ -15,3 +15,6 @@
 |[西浦グランドホテル 吉慶](https://www.kikkei.jp/faq?category=305)|1100|15-18| |
 |[和のリゾート はづ](http://www.hazu.co.jp/wahazu/hotspa/)|1500 |13-17| |
 |[西浦温泉 末広](https://www.hotelsuehiro.co.jp/news/)|1200|11:30-15:30|天空露天風呂休み|
+|[ヒガキホテル](https://miya-higaki.jp/rsp/hotspring.html)|1600|14-18|露天風呂のみ？|
+|[ホテル竹島](https://hotel-takeshima.co.jp/)|1600|12-16||
+
