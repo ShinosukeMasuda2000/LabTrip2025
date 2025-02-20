@@ -13,7 +13,7 @@
 
 # 経由地でのおすすめスポット
 - 高浜市
-  - [高浜市やきものの里 かわら美術館・図書館](https://www.takahama-kawara-museum.com/) : 瓦の美術館。高浜市は三州瓦が有名らしい。
+  - [高浜市やきものの里 かわら美術館・図書館](https://www.takahama-kawara-museum.com/) : 瓦の美術館。高浜市は瓦が有名らしい。
 - 西尾市
   - [西条園](https://saijoen.jp/) : 抹茶に関連した料理が楽しめる。カフェ。周辺の[カフェ一覧](https://nishiokanko.com/list/season/meitetsu-winter2025/)。
 - 一色漁港
