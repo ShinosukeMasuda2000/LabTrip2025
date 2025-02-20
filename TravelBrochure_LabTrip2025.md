@@ -15,7 +15,7 @@
 - 高浜市
   - [高浜市やきものの里 かわら美術館・図書館](https://www.takahama-kawara-museum.com/) : 瓦の美術館。高浜市は三州瓦が有名らしい。
 - 西尾市
-  - [西条園](https://saijoen.jp/) : 抹茶に関連した料理が楽しめる。カフェ。
+  - [西条園](https://saijoen.jp/) : 抹茶に関連した料理が楽しめる。カフェ。周辺の[カフェ一覧](https://nishiokanko.com/list/season/meitetsu-winter2025/)。
 - 一色漁港
   - [一色さかな市場](https://www.sakanahiroba.com/tenpo.html) (9:00-17:00) : 海鮮を中心とした複数の食事処や商店が軒を連ねる。
   - [うなぎの兼光 一色本店](https://unaginokanemitsu.jp/) (11:00-14:30) : うなぎ処。
